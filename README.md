@@ -31,4 +31,4 @@ A simple GUI-based Cafe Management System built using **Python and Tkinter**, al
 
 1. Clone the repository or download the `.py` file:
    ```bash
-   git clone 
+   git clone https://github.com/kavyapatel08/Python-Mini-Projects.git
